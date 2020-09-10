@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1 align="center">Menu</h1>
-	<p align="center"><a href="index.jsp">index</a></p>
+	<p align="center"><a href="index.jsp">Home Page</a></p>
 	<table border="1" cellpadding="30%" align="center">
 		<tr>
 			<th>id</th>
